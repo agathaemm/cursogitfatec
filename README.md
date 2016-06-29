@@ -1,7 +1,7 @@
 # Agatha
 
 ## Formação
--Cursando analise e desenvolvimento de sistemas...
+-Cursando analise e desenvolvimento de sistemas...  
 -minicurso git 
 ## Experiencia
 
