@@ -1,5 +1,6 @@
 # Agatha
 
 ## Formação
+-Cursando analise e desenvolvimento de sistemas...
 ## Experiencia
-## Skilss
+## Skills
