@@ -1,7 +1,7 @@
 # Agftha  
 
 ## estado civil
-- namorando  
+- Namorando  
 
 ## Formação
 - Cursando analise e desenvolvimento de sistemas...  
