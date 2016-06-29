@@ -1,4 +1,7 @@
-# Agatha
+# Agatha  
+
+## estado civil
+- namorando  
 
 ## Formação
 - Cursando analise e desenvolvimento de sistemas...  
@@ -18,3 +21,5 @@
 - Doctor who
 - a menina das laranjas  
 - O caso dos 10 negrinhos   
+
+
