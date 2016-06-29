@@ -13,3 +13,8 @@
 - Ferramentas: Git (com git hub)  
 - Comedora master de chocolate  
 - Namorada linda do gustavo  
+
+## Ultimos lidos  
+- Doctor who
+- a menina das laranjas  
+- O caso dos 10 negrinhos   
