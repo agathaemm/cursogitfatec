@@ -1,24 +1,22 @@
-# Agatha  
+# Agatha Ellen Magalhães de Menezes  
 
-## estado civil
+## Estado civil  
 - Namorando  
 
-## Formação
-- Cursando analise e desenvolvimento de sistemas...  
-- minicurso git  
-- Experiencia  
-- estagio na empresa ... (periodo 12 meses)  
-- trabalho voluntario como ajudante na creche criança feliz (periodo 1 mes)  
+## Formação  
+- Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba (Terceiro Semestre, conclusão em 12/2018. Periodo noturno)  
+- Minicurso de GIT na FATEC Sorocaba (28 e 29 de junho/2016)  
+
+## Experiencia  
+- Trabalho voluntario como vendedora de dice na quermece da igreja Sao José do Cerrado  
 
 ## Skills  
-- Linguagem: C, Java  
-- Idioma: ingles(leitura razoavel, conversacao fraca)  
+- Linguagem: C, Java, HTML, CSS 
+- Idioma: ingles (compreende razoavelmente, fala pouco, lê razoavelmente, escreve pouco)  
 - Ferramentas: Git (com git hub)  
-- Comedora master de chocolate  
-- Namorada linda do gustavo  
 
 ## Ultimos lidos  
-- Doctor who
-- a menina das laranjas  
-- O caso dos 10 negrinhos   
+- Doctor who  
+- A menina das laranjas  
+- O caso dos 10 negrinhos  
 
