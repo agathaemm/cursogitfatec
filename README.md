@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Agfhsiudhsidtha  
-=======
-# Agghdhsjkdoijtha  
->>>>>>> 93c9700ba878cffefec8d35baf54e675091de84e
+# Agatha  
 
 ## estado civil
 - Namorando  
